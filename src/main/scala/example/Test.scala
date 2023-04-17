@@ -10,8 +10,8 @@ object Test {
       println(s"size of the given input is ${tail.size + 1} ")
       true
 
-    case _ =>
-      println("is default case should be true or false? I am not expecting this case")
-      false
+//    case _ =>
+//      println("is default case should be true or false? I am not expecting this case")
+//      false
   }
 }
